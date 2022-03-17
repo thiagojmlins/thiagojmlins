@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thiago, and I'm a thirty-seven years old self-taught junior full-stack developer. 
+My name is Thiago, and I'm a self-taught full-stack developer. 
 
 - 🔭 I’m currently working on improving my skills as a developer, and also how to share the obtained knowledge with other developers
 - 🌱 I’m currently learning more about design patterns, clean code and front-end development (React fans, assemble!)
