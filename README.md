@@ -4,7 +4,7 @@ My name is Thiago, and I'm a self-taught full-stack developer.
 
 - 🔭 I’m currently working on improving my skills as a developer, and also how to share the obtained knowledge with other developers
 - 🌱 I’m currently learning more about design patterns, clean code and front-end development (React fans, assemble!)
-- 👯 I’m looking to collaborate on backend projects (Node.js and Python)
+- 👯 I’m looking to collaborate on backend projects (Node.js, Python and try to learn some Golang as well) 
 - 🤔 I’m looking for help with test-driven development and code optimization
 - 📫 How to reach me: thiagojmlins.github.io (soon)
 - 😄 Pronouns: he/him/ele
